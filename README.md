@@ -4,8 +4,7 @@ ML4EO Pipeliner is a web platform for building, running, viewing, and sharing Ea
 
 Open the tool here: [https://pipeliner.ml4eo.world](https://pipeliner.ml4eo.world)
 
-[Tool interface](url)
-[Slide manual]()
+[Slide manual](https://github.com/vvvlcb/ML4EO_Pipeliner/blob/main/ML4EO_Pipeliner_Demo_v1.pptx)
 
 ## What Pipeliner Does
 
