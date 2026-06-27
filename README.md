@@ -12,7 +12,7 @@ Pipeliner is designed to reduce the gap between Earth observation research code 
 
 It helps users:
 
-- Acquire and process Earth observation imagery without writing any code.
+- Acquire and process Earth observation imagery in real time without writing any code.
 - Build time-series datasets over a selected area of interest.
 - Run source, index, and machine learning model tools online.
 - View output layers on a map.
