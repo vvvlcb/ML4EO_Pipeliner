@@ -30,9 +30,9 @@ The platform is especially useful when non-technical collaborators need to inspe
 - [Core Concepts](#core-concepts)
 - [Interface Overview](#interface-overview)
 - [Public Demo Workflow](#public-demo-workflow)
-- [Example-1: Gaza Conflict Demo](#example-gaza-conflict-demo)
-- [Example-2: Eaton Fire, Altadena, Los Angeles](#example-eaton-fire-altadena-los-angeles)
-- [Example-3: Creating Your Own Dataset](#creating-your-own-stac-dataset)
+- [Example-1: Gaza Conflict Demo](#example-1-gaza-conflict-demo)
+- [Example-2: Eaton Fire, Altadena, Los Angeles](#example-2-eaton-fire-altadena-los-angeles)
+- [Example-3: Create Your Own Dataset](#example-3-create-your-own-dataset)
 - [Downloads and Exports](#downloads-and-exports)
 - [Troubleshooting](#troubleshooting)
 - [Planned Improvements](#planned-improvements)
@@ -314,7 +314,7 @@ If a slice has no data:
 - Try a different source/tool.
 - Check whether the AOI is too small, too cloudy, or outside the source coverage.
 
-## Example-3: Creating Your Own STAC Dataset
+## Example-3: Create Your Own Dataset
 
 Use Pro mode when your goal is to build a structured dataset for later analysis or model development.
 
