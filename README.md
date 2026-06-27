@@ -400,7 +400,7 @@ For larger or specialized requirements, contact the project team directly.
 
 ## Citation
 
-When citing ML4EO Pipeliner, attribute the tool to **Haoyang Cui** and **Chunbo Luo**.
+When citing ML4EO Pipeliner, please attribute the tool to **Haoyang Cui** and **Chunbo Luo**.
 
 Suggested citation:
 
