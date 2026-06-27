@@ -22,6 +22,26 @@ It helps users:
 
 The platform is especially useful when non-technical collaborators need to inspect EO results, compare time periods, or evaluate model outputs without running notebooks or local machine learning environments.
 
+
+## Page Outline
+
+- [What Pipeliner Does](#what-pipeliner-does)
+- [Access Options](#access-options)
+- [Core Concepts](#core-concepts)
+- [Interface Overview](#interface-overview)
+- [Public Demo Workflow](#public-demo-workflow)
+- [Example-1: Gaza Conflict Demo](#example-gaza-conflict-demo)
+- [Example-2: Eaton Fire, Altadena, Los Angeles](#example-eaton-fire-altadena-los-angeles)
+- [Example-3: Creating Your Own Dataset](#creating-your-own-stac-dataset)
+- [Downloads and Exports](#downloads-and-exports)
+- [Troubleshooting](#troubleshooting)
+- [Planned Improvements](#planned-improvements)
+- [Feedback and Support](#feedback-and-support)
+- [Citation](#citation)
+- [Sources Used](#sources-used)
+
+
+
 ## Access Options
 
 You can use Pipeliner in two ways.
