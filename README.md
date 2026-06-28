@@ -425,3 +425,5 @@ If you cite outputs produced with Pipeliner, also cite the original Earth observ
 - Uploaded manual: `ML4EO_Pipeliner_Demo_v1.pptx`
 - Live tool: [ML4EO Pipeliner](https://pipeliner.ml4eo.world), accessed 2026-06-25
 - Map base data attribution shown in the live app: [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
+- Satellite geospatial data access [Google Earth Engine](https://earthengine.google.com)
+- Sentinel data attribution [The Sentinel missions](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.esa.int/Applications/Observing_the_Earth/Copernicus/The_Sentinel_missions&ved=2ahUKEwii6KO85aqVAxWOSfEDHUYhBWgQFnoECA0QAQ&usg=AOvVaw3tGO8UbQLtR8_X-KNJEvjq)
